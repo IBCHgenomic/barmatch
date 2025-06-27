@@ -1,6 +1,9 @@
 # barmatch
 
 - splits the illumina reads accroding to barcode files
+
+<img src="https://github.com/IBCHgenomic/barmatch/blob/main/barmatch.png" width="350" />
+
 ![](https://github.com/IBCHgenomic/eVaiutilities/blob/main/logo.png)
 
 
